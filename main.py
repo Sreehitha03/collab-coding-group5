@@ -1,6 +1,9 @@
 from functions.factorial import factorial
+from functions.fibonacci import fibonacci
 from functions.prime import is_prime
 from functions.gcd import gcd
+from functions.armstrong import is_armstrong   
+
 def main():
     print("Welcome to Collab Project - Math Utilities\n")
 
