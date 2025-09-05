@@ -26,3 +26,5 @@ This project is a collaborative collection of math utility functions.
 ## Tips
 - Keep commits small and meaningful
 - Use descriptive commit messages
+
+
